@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.build-venv/
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+*.swp
+*~
